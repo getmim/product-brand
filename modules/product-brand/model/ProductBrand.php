@@ -14,5 +14,5 @@ class ProductBrand extends \Mim\Model
 
     protected static $chains = [];
 
-    protected static $q = [];
+    protected static $q = ['name'];
 }
