@@ -52,10 +52,7 @@ return [
             'image' => [
                 'type' => 'VARCHAR',
                 'length' => 150,
-                'attrs' => [
-                    'null' => FALSE,
-                    'unique' => TRUE
-                ],
+                'attrs' => [],
                 'index' => 4000
             ],
             'content' => [
