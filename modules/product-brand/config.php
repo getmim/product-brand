@@ -43,8 +43,7 @@ return [
                     'type' => 'object',
                     'model' => [
                         'name' => 'ProductBrand\\Model\\ProductBrand',
-                        'field' => 'id',
-                        'type' => 'int'
+                        'field' => 'id'
                     ],
                     'format' => 'product-brand'
                 ]
